@@ -68,17 +68,18 @@ console.log("seu nome completo e " +nomecompleto)
 
     console.log(result)
 }
-
+{
 let x = 10
 let y = 25
-let result
+let result1
 
 result = x+y
 console.log ("soma:" + result)
+}
 
 let x = 10
 let y = 25
-let result
+let result2
 
 result = x*y
 console.log ("Multi:" + result)
