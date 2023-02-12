@@ -44,3 +44,42 @@ console.log(nome3)
     //largura=400
 }
 //constante e uma variavel que nao poder ser alterada
+
+
+//concatenar
+{
+let nome ="Evandro"
+let sobrenome ="mathias"
+let nomecompleto
+
+nomecompleto=nome+" "+sobrenome
+
+console.log("seu nome completo e " +nomecompleto)
+}
+
+//resto
+{
+    let n1
+    let result
+
+    n1=19
+
+    result=n1 & 2
+
+    console.log(result)
+}
+
+let x = 10
+let y = 25
+let result
+
+result = x+y
+console.log ("soma:" + result)
+
+let x = 10
+let y = 25
+let result
+
+result = x*y
+console.log ("Multi:" + result)
+
