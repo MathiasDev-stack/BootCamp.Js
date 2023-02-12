@@ -35,3 +35,12 @@ console.log(nome3)
 
 //date object
 //let date =newdate("2023-02-12")
+
+{
+    //const pi =3.14
+    //let largura=300
+
+    //pi =3.15
+    //largura=400
+}
+//constante e uma variavel que nao poder ser alterada
