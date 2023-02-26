@@ -8,7 +8,8 @@
 
     let media =(parseFloat(n1) + parseFloat(n2) + parseFloat(n3) + parseFloat(n4)) /4
 
-    
-    alert(media)
+    console.log(Media)
+    //alert(media)
+    document.getElementById("resultado").innerHTML= media
 
  
