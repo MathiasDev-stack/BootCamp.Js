@@ -6,10 +6,10 @@
     let n3 = prompt("informe N3")
     let n4 = prompt("informe N4")
 
-    let media =(parseFloat(n1) + parseFloat(n2) + parseFloat(n3) + parseFloat(n4)) /4
+    var media = (parseFloat(n1) + parseFloat(n2) + parseFloat(n3) + parseFloat(n4)) /4
 
-    console.log(Media)
-    //alert(media)
-    document.getElementById("resultado").innerHTML= media
+    console.log(media)
+    alert(media)
+    document.getElementById("resultado").innerHTML = media
 
  
